@@ -15,4 +15,6 @@ mbed compile -m NUCLEO_F767ZI -t ARM
 
 Make sure using Python 2.7. Python 3 is not (yet) working.
 
+Tested with Mbed OS 5.12.4
+
 Documentation can be found (soon completed) under: https://github.com/ATM-HSW/exampleThingSpeakReadField/blob/master/ThingSpeak.md

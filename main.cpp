@@ -25,7 +25,7 @@
 
 #include "mbed.h"
 #include "EthernetInterface.h"
-#include "WString.h"
+#include "arduino_WString.h"
 #include "secrets.h"
 //#define THINGSPEAK_DBG_MSG
 //#define THINGSPEAK_DBG_HTTP
